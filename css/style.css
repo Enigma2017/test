@@ -1,0 +1,12 @@
+.container{
+	width: 1170px;
+}
+
+.page-header{
+	border-bottom: 5px solid gray;
+	margin: 20px 0 40px 0;
+}
+
+h1{
+	font-size: 46px;
+}
