@@ -63,3 +63,5 @@ $bookList.on('click', '[data-id]', function(event){
 			.addClass('read-link')
 			.appendTo($bookDescription)
 });
+
+console.log(arrBooks);
