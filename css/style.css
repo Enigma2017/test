@@ -10,3 +10,14 @@
 h1{
 	font-size: 46px;
 }
+
+img{
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.read-link{
+	float: right;
+	color: blue;
+}
